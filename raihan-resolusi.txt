@@ -3,3 +3,4 @@ Konsisten Belajar Front-End Web Developer Minimal 4 Jam / Hari
 Belajar Bahasa Inggris Minimal 1 Jam / Hari
 Belajar Javascript Lanjutan
 Belajar Framework CSS
+Belajar REST API
